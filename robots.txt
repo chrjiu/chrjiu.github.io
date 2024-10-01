@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chrjiu.github.io/mLQ/sitemap.mLQ.gz
